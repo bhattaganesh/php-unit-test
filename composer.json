@@ -2,7 +2,7 @@
     "name": "ganesh/php-unit-test",
     "autoload": {
         "psr-4": {
-            "Ganesh\\PhpUnitTest\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
